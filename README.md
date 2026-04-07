@@ -1,5 +1,5 @@
 
-# 💫<H6> About Me:<br>👨‍💻 Hi, I'm Prince<br><br>🎓Full-Stack Developer | Open Source Enthusiast | Problem Solver , An IT Student at Parul University.,<br/><br><br>I build scalable applications and explore the depths of modern tech stacks. Currently focusing on core java to become the master of java with spring boot.<br/><br><br>🔭 Current Project: Working on Smart-Student-Management-System – Don't talk just Built.<br/><br><br>⚡ Fun Fact: . I also love video editing you can visit on[Instagram](https://www.instagram.com/therealtrioss/):<br><br><br>## 
+# <H6> About Me:<br>👨‍💻 Hi, I'm Prince<br><br>🎓Full-Stack Developer | Open Source Enthusiast | Problem Solver , An IT Student at Parul University.,<br/><br><br>I build scalable applications and explore the depths of modern tech stacks. Currently focusing on core java to become the master of java with spring boot.<br/><br><br>🔭 Current Project: Working on Smart-Student-Management-System – Don't talk just Built.<br/><br><br>⚡ Fun Fact: . I also love video editing you can visit on[Instagram](https://www.instagram.com/therealtrioss/):<br><br><br>## 
 </H6>
 
 
